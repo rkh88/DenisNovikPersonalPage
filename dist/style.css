@@ -21,7 +21,6 @@ a {
   justify-content: space-between;
   align-items: center;
 }
-
 .section-header a {
   margin-top: 33px;
   font-family: Gilroy-Bold;
@@ -30,7 +29,6 @@ a {
   /* Black */
   color: #070707;
 }
-
 .section-header hr {
   margin-bottom: 10px;
   width: 100%;
@@ -45,7 +43,6 @@ a {
   justify-content: space-between;
   align-items: center;
 }
-
 .section-denis__denis_novik p {
   font-family: Gilroy-Bold;
   font-size: 47px;
@@ -54,7 +51,6 @@ a {
   /* Black */
   color: #070707;
 }
-
 .section-denis__ui_ux {
   font-family: Gilroy-Medium;
   font-size: 18px;
@@ -63,7 +59,6 @@ a {
   /* Black */
   color: #070707;
 }
-
 .section-denis__ru_eng {
   font-family: Gilroy-Bold;
   font-size: 16px;
@@ -72,20 +67,17 @@ a {
   color: #828282;
   transform: rotate(-90deg);
 }
-
 .section-denis__hamburger {
   background: url("../Images/Hamburger_icon.svg.png") no-repeat;
   width: 200px;
   height: 40px;
 }
-
 .section-denis__hamburger hr {
   width: 33px;
   height: 3.84px;
   background: #000000;
   margin-left: 80%;
 }
-
 .section-denis__image {
   background: url("../Images/BSPP2266.jpg") no-repeat center;
   width: 100%;
@@ -102,7 +94,6 @@ a {
   justify-content: center;
   align-items: center;
 }
-
 .section-about-me h2 {
   font-family: Gilroy-Bold;
   font-size: 34px;
@@ -112,7 +103,6 @@ a {
   /* Black */
   color: #070707;
 }
-
 .section-about-me p {
   font-family: Gilroy-Medium;
   font-size: 18px;
@@ -125,7 +115,6 @@ a {
 .section-skills {
   width: 100%;
 }
-
 .section-skills h2 {
   font-family: Gilroy-Bold;
   font-size: 34px;
@@ -135,7 +124,6 @@ a {
   /* Black */
   color: #070707;
 }
-
 .section-skills p {
   font-family: Gilroy-Medium;
   font-size: 18px;
@@ -145,7 +133,6 @@ a {
   /* Black */
   color: #070707;
 }
-
 .section-skills__icons {
   display: flex;
   flex-wrap: nowrap;
@@ -153,11 +140,9 @@ a {
   align-items: center;
   padding-top: 50px;
 }
-
 .section-skills__icons div {
   padding: 10px 10px;
 }
-
 .section-skills__icons p {
   font-family: Gilroy-Bold;
   font-size: 14px;
@@ -166,7 +151,6 @@ a {
   color: #828282;
   padding-bottom: 10px;
 }
-
 .section-skills__icons__ps {
   display: flex;
   flex-direction: column;
@@ -175,7 +159,6 @@ a {
   width: 20%;
   height: 200px;
 }
-
 .section-skills__icons__ai {
   display: flex;
   flex-direction: column;
@@ -184,7 +167,6 @@ a {
   width: 20%;
   height: 200px;
 }
-
 .section-skills__icons__ae {
   display: flex;
   flex-direction: column;
@@ -193,7 +175,6 @@ a {
   width: 20%;
   height: 200px;
 }
-
 .section-skills__icons__figma {
   display: flex;
   flex-direction: column;
@@ -202,49 +183,41 @@ a {
   width: 20%;
   height: 200px;
 }
-
 .section-skills__icons__ps__image {
   width: 100%;
   height: 100%;
   background: url("../Images/Ps.png") no-repeat center;
 }
-
 .section-skills__icons__ai__image {
   width: 100%;
   height: 100%;
   background: url("../Images/Ai.png") no-repeat center;
 }
-
 .section-skills__icons__ae__image {
   width: 100%;
   height: 100%;
   background: url("../Images/Ae.png") no-repeat center;
 }
-
 .section-skills__icons__figma__image {
   width: 100%;
   height: 100%;
   background: url("../Images/Figma.png") no-repeat center;
 }
-
 .section-skills__icons__ps__stars {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
 }
-
 .section-skills__icons__ai__stars {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
 }
-
 .section-skills__icons__ae__stars {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
 }
-
 .section-skills__icons__figma__stars {
   display: flex;
   flex-direction: row;
@@ -260,7 +233,6 @@ a {
   align-items: center;
   background: #F6F6F6;
 }
-
 .section-portfolio h2 {
   height: 50px;
   font-family: Gilroy-Bold;
@@ -269,7 +241,6 @@ a {
   text-align: center;
   padding-bottom: 50px;
 }
-
 .section-portfolio a {
   height: 50px;
   font-family: Gilroy-Medium;
@@ -280,19 +251,16 @@ a {
   /* Black */
   color: #070707;
 }
-
 .section-portfolio__woman {
   background: url("../Images/woman.jpg") no-repeat center;
   width: 936.24px;
   height: 510px;
 }
-
 .section-portfolio__reebok {
   background: url("../Images/reebok.jpg") no-repeat center;
   width: 100%;
   height: 510px;
 }
-
 .section-portfolio__braun {
   background: url("../Images/braun.jpg") no-repeat center;
   width: 936.24px;
@@ -307,11 +275,9 @@ a {
   width: auto;
   height: 600px;
 }
-
 .section-contacts div {
   margin: 30px auto;
 }
-
 .section-contacts h2 {
   font-family: Gilroy-Bold;
   font-size: 34px;
@@ -320,7 +286,6 @@ a {
   /* Black */
   color: #070707;
 }
-
 .section-contacts p {
   font-family: Gilroy-Medium;
   font-size: 18px;
@@ -329,13 +294,11 @@ a {
   /* Black */
   color: #070707;
 }
-
 .section-contacts__send_message {
   width: 180px;
   height: 40px;
   background: url("../Images/SendMessage.png") no-repeat center;
 }
-
 .section-contacts__social_media {
   display: flex;
   justify-content: space-between;
@@ -343,31 +306,26 @@ a {
   flex-direction: row;
   width: 400px;
 }
-
 .section-contacts__social_media__in {
   width: 40px;
   height: 40px;
   background: url("../Images/in.png") no-repeat center;
 }
-
 .section-contacts__social_media__inst {
   width: 40px;
   height: 40px;
   background: url("../Images/inst.png") no-repeat center;
 }
-
 .section-contacts__social_media__be {
   width: 40px;
   height: 40px;
   background: url("../Images/be.png") no-repeat center;
 }
-
 .section-contacts__social_media__ball {
   width: 40px;
   height: 40px;
   background: url("../Images/ball.png") no-repeat center;
 }
-
 .section-contacts__like_me {
   font-family: Gilroy-Medium;
   font-size: 14px;
