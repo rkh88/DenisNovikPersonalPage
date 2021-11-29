@@ -1,3 +1,12 @@
+@mixin IconsPosition() {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 20%;
+    height: 200px;    
+}
+
 * {
     margin: 0;
 }
@@ -188,39 +197,19 @@ a {
     }
     
     &__icons__ps {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        align-items: center;
-        width: 20%;
-        height: 200px;
+        @include IconsPosition();
     }
     
     &__icons__ai {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        align-items: center;
-        width: 20%;
-        height: 200px;
+        @include IconsPosition();
     }
     
     &__icons__ae {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        align-items: center;
-        width: 20%;
-        height: 200px;
+        @include IconsPosition();
     }
     
     &__icons__figma {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        align-items: center;
-        width: 20%;
-        height: 200px;
+        @include IconsPosition();
     }
     
     &__icons__ps__image {
